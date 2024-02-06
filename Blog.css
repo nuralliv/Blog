@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.laptop-imAGE{
+	
+}
+.main-container{
+margin: 6.5%;
+}
+.mini_icons{
+	display: inline-flex;
+   position: relative;
+	align-items: flex-start;
+	justify-content: space-between;
+
+}
+.icon{
+	color: #9F9F9F;
+	display: inline-flex;
+   position: relative;
+	align-items: flex-start;
+	float: inline-start;
+	justify-content: space-between;
+   margin-left:10px ;}
+
